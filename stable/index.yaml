@@ -3,7 +3,7 @@ entries:
   app1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-27T09:46:03.2931964+01:00"
+    created: "2020-04-27T11:18:34.6937975+01:00"
     description: A Helm chart for Kubernetes (Stable Fork)
     digest: 9728ba542049f19a1869118ebcd008705bfbba3cb7ecbfb55143f765d887f2e0
     name: app1
@@ -14,12 +14,12 @@ entries:
   app2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-27T09:46:03.2931964+01:00"
-    description: A Helm chart for Kubernetes (Stable Fork)
-    digest: ff0386e1a39d4f6f7901cc7f158a714a792794d058856984a7db38baf8abf086
+    created: "2020-04-27T11:18:34.6937975+01:00"
+    description: A Helm chart for Kubernetes (Stable Fork - Sachin's question)
+    digest: e0c1287939009985bfb5fc32bec43f0e988373d6994e5c2ae81e539b5907ff79
     name: app2
     type: application
     urls:
     - app2-1.0.0.tgz
     version: 1.0.0
-generated: "2020-04-27T09:46:03.2921951+01:00"
+generated: "2020-04-27T11:18:34.6897859+01:00"
