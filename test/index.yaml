@@ -3,23 +3,23 @@ entries:
   app1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-27T09:51:15.5536377+01:00"
+    created: "2020-04-27T10:56:25.1262544+01:00"
     description: A Helm chart for Kubernetes (Test Fork)
-    digest: bfa1e8e88e7011563d72e62f966b38d5938193491e53982f35e9432fed0f27f7
+    digest: a3fecf748bdac519efa7718a669654ba03fd9e77efb14485253be8d61affb7af
     name: app1
     type: application
     urls:
-    - app1/app1-0.1.0.tgz
+    - app1-0.1.0.tgz
     version: 0.1.0
   app2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-27T09:51:15.5536377+01:00"
-    description: A Helm chart for Kubernetes (Stable Fork)
-    digest: fe584dcace756c3d2d7194409a23aa558aba6102f44004f19e951648ca5bf45a
+    created: "2020-04-27T10:56:25.1272495+01:00"
+    description: A Helm chart for Kubernetes (Test Fork)
+    digest: 72d3c45c65fdc644f50bf20a2cc7f28f33ae8ff54c4a4565f62164184e028d88
     name: app2
     type: application
     urls:
-    - app1/app2-0.1.0.tgz
+    - app2-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-27T09:51:15.5527006+01:00"
+generated: "2020-04-27T10:56:25.1252474+01:00"
